@@ -71,10 +71,7 @@ UI Design
 Screens, colours and buttons
 
 Testing and Improvement
-
-
 Both UI and UX are important for creating attractive, simple and user-friendly applications.
-
 d. Demonstrate Various UI/UX Design Tools in Detail
 UI/UX designers use different tools to create layouts, prototypes and user-friendly designs.
 
@@ -103,6 +100,7 @@ UI/UX designers use different tools to create layouts, prototypes and user-frien
 - Used to create simple wireframes.
 - Helps designers plan screen layouts before adding colours and detailed designs.
 - Example: Creating a basic login screen structure.
+
 Conclusion
 UI focuses on the appearance of a digital product, whereas UX focuses on the complete user experience. Both are equally important for creating useful and user-friendly applications. Tools such as Figma, Canva and Miro help designers plan, design and test their ideas.
 
